@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Southwest Jiaotong University, 2014 - 2018
+* M.S. in University of Michigan, Ann Arbor, 2018 - 2019
+* Ph.D in Computer Science, Vanderbilt University, 2020 (defer to start at 2021 fall due to COVID-19) - present
 
 Work experience
 ======
