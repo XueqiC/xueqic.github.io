@@ -84,10 +84,11 @@ author:
   avatar           : "XueqiCheng.png"
   bio              : "Ph.D. student in Computer Science at Vanderbilt University"
   location         : "Nashville, TN, USA"
+  email            : "xueqi.cheng@vanderbilt.edu"
+  github           : "XueqiC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MWnSFPMAAAAJ&hl=en"
-  email            :
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XueqiC"
   google_plus      :
   keybase          :
   instagram        :
