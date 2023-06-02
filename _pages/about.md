@@ -14,7 +14,7 @@ Prior to joining Vanderbilt University, I receieved the B.S. degree from [Southw
 
 Research
 =======
-My research interests lie in machine learning on graphs and data ming.
+My research interests lie in machine learning on graphs and data mining.
 
 News
 =======
