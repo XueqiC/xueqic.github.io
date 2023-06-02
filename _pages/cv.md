@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Southwest Jiaotong University, 2014 - 2018
 * M.S. in University of Michigan, Ann Arbor, 2018 - 2019
-* Ph.D in Computer Science, Vanderbilt University, 2021 - present
+* Ph.D in Vanderbilt University, 2021 - present
 
 Work experience
 ======
