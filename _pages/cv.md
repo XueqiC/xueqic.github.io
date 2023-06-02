@@ -14,19 +14,19 @@ Education
 ======
 * B.S. in Southwest Jiaotong University, 2014 - 2018
 * M.S. in University of Michigan, Ann Arbor, 2018 - 2019
-* Ph.D in Vanderbilt University, 2021 - present
+* Ph.D. in Vanderbilt University, 2021 - present
 
 Experience
 ======
-* [Network and Data Science Lab (NDS)](https://nds-vu.github.io/)           2023 - present
+* [Network and Data Science Lab (NDS)](https://nds-vu.github.io/),           2023 - present
   * Vanderbilt University 
   * Supervisor: [Dr. Tyler Derr](https://tylersnetwork.github.io/)
 
-* [Broud Research Group (BRG)](https://hibabaroud.com/)           2021 - 2023
+* [Broud Research Group (BRG)](https://hibabaroud.com/),           2021 - 2023
   * Vanderbilt University 
   * Supervisor: [Dr. Hiba Baroud](https://hibabaroud.com/people/)
 
-* [Resilient and Efficient Structures Laboratory (RESLab)](https://reslab.engin.umich.edu/)           2018 - 2019
+* [Resilient and Efficient Structures Laboratory (RESLab)](https://reslab.engin.umich.edu/),           2018 - 2019
   * University of Michigan, Ann Arbor
   * Supervisor: [Dr. Seymour M.J. Spence](https://reslab.engin.umich.edu/people)
 
