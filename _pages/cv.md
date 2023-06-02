@@ -18,15 +18,15 @@ Education
 
 Experience
 ======
-* [Network and Data Science Lab (NDS)](https://nds-vu.github.io/)
+* [Network and Data Science Lab (NDS)](https://nds-vu.github.io/)           2023 - present
   * Vanderbilt University 
   * Supervisor: [Dr. Tyler Derr](https://tylersnetwork.github.io/)
 
-* [Broud Research Group (BRG)](https://hibabaroud.com/)
+* [Broud Research Group (BRG)](https://hibabaroud.com/)           2021 - 2023
   * Vanderbilt University 
   * Supervisor: [Dr. Hiba Baroud](https://hibabaroud.com/people/)
 
-* [Resilient and Efficient Structures Laboratory (RESLab)](https://reslab.engin.umich.edu/)
+* [Resilient and Efficient Structures Laboratory (RESLab)](https://reslab.engin.umich.edu/)           2018 - 2019
   * University of Michigan, Ann Arbor
   * Supervisor: [Dr. Seymour M.J. Spence](https://reslab.engin.umich.edu/people)
 
