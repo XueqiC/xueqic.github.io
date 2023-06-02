@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+======
 
 Education
 ======
@@ -15,44 +16,41 @@ Education
 * M.S. in University of Michigan, Ann Arbor, 2018 - 2019
 * Ph.D in Vanderbilt University, 2021 - present
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [Network and Data Science Lab (NDS)](https://nds-vu.github.io/)
+  * Vanderbilt University 
+  * Supervisor: [Dr. Tyler Derr](https://tylersnetwork.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Broud Research Group (BRG)](https://hibabaroud.com/)
+  * Vanderbilt University 
+  * Supervisor: [Dr. Hiba Baroud](https://hibabaroud.com/people/)
+
+* [Resilient and Efficient Structures Laboratory (RESLab)](https://reslab.engin.umich.edu/)
+  * University of Michigan, Ann Arbor
+  * Supervisor: [Dr. Seymour M.J. Spence](https://reslab.engin.umich.edu/people)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  
+Scholarships and awards
+======
+<!-- * Currently signed in to 43 different slack teams -->
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+<!--   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
-======
+<!-- ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
