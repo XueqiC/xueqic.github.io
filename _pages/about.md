@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://www.vanderbilt.edu/), avdised by [Dr. Derr](https://tylersnetwork.github.io/) in the [Network and Data Science (NDS) Lab](https://nds-vu.github.io/).
+Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Derr](https://tylersnetwork.github.io/) in the [Network and Data Science (NDS) Lab](https://nds-vu.github.io/).
 
 Prior to joining Vanderbilt University, I receieved the B.S. degree from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and the M.S. degree from [University of Michigan, Ann Arbor](https://umich.edu/).
 
