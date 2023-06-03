@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Civil Engineering Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Vanderbilt University, Civil and Environmental Engineering Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Nashville, TN"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
+CE 2000: Statics
 
 Heading 2
 ======
+CE 3205: Structural Design
 
 Heading 3
 ======
+CE 3200: Structural Analysis
