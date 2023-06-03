@@ -3,8 +3,8 @@ title: "Civil Engineering Teaching Experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Vanderbilt University, Civil and Environmental Engineering Department"
-date: 
+venue: "Vanderbilt University"
+date: 2021 - 2023
 location: "Nashville, TN"
 ---
 
