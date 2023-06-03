@@ -8,11 +8,9 @@ date: 2021 - 2023
 location: "Nashville, TN"
 ---
 
-CE 2000: Statics
+CE 2000: Statics, CE 3205: Structural Design, CE 3205: Structural Design
 ======
 
-CE 3205: Structural Design
-======
 
-CE 3200: Structural Analysis
-======
+
+
