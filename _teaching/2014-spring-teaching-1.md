@@ -8,14 +8,11 @@ date: 2014-01-01
 location: "Nashville, TN"
 ---
 
-Heading 1
-======
 CE 2000: Statics
-
-Heading 2
 ======
+
 CE 3205: Structural Design
-
-Heading 3
 ======
+
 CE 3200: Structural Analysis
+======
