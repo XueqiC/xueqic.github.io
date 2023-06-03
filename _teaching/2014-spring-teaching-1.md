@@ -1,5 +1,5 @@
 ---
-title: "Civil Engineering Teaching experience"
+title: "Civil Engineering Teaching Experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
