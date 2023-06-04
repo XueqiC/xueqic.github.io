@@ -6,7 +6,7 @@ permalink: /teaching/2022_Spring/
 redirect_from:
   - /teaching/2022_Spring/ 
 institution: "Vanderbilt University, Civil and Environmental Engineering"
-date: 2022-01
+date: 2022-01-17
 excerpt: "Properties of steel and design philosophies"
 ---
 

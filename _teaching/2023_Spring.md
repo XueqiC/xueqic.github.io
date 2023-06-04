@@ -6,7 +6,7 @@ permalink: /teaching/2023_Spring/
 redirect_from:
   - /teaching/2023_Spring/ 
 institution: "Vanderbilt University, Civil and Environmental Engineering"
-date: 2023-01
+date: 2023-01-09
 excerpt: "Applications to systems of forces in two and three dimensions"
 ---
 
