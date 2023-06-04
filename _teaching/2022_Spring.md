@@ -1,5 +1,5 @@
 ---
-title: "CE 3205: Structural Design(2022 Spring, Vanderbilt University)"
+title: "CE 3205: Structural Design (2022 Spring, Vanderbilt University)"
 collection: teaching
 teaching_type: "Undergraduate course"
 permalink: /teaching/2022_Spring/ 
