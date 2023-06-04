@@ -7,14 +7,13 @@ redirect_from:
   - /teaching/2022_Spring/ 
 institution: "Vanderbilt University, Civil and Environmental Engineering"
 date: 2022-01-17
-excerpt: "Properties of steel and design philosophies"
+excerpt: "<i>Undergraduate course, Teaching assistant</i><br/> 
+Properties of steel and design philosophies."
 ---
 
 ## CE 3205: Structural Design -- 2022 Spring (Vanderbilt University)
 
 **Instructor:** Dr. Lori A. Troxel
-
-**TA** Xueqi Cheng
 
 **Time:**  MWF, 11:00 – 12:15 pm 
 
