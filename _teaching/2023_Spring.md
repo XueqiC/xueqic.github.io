@@ -1,7 +1,7 @@
 ---
 title: "CE 2200: Statics (2023 Spring, Vanderbilt University)"
 collection: teaching
-teaching_type: "Course"
+teaching_type: "Undergraduate course"
 permalink: /teaching/2023_Spring/ 
 redirect_from:
   - /teaching/2023_Spring/ 
@@ -13,6 +13,7 @@ excerpt: "Applications to systems of forces in two and three dimensions"
 ## CE 2200: Statics -- 2023 Spring (Vanderbilt University)
 
 **Instructor:** Dr. Ghina Nakad Absi
+
 **TA** Xueqi Cheng
 
 **Time:**  MWF, 09:05 – 09:55 am 

@@ -1,7 +1,7 @@
 ---
 title: "CE 3205: Structural Design(2022 Spring, Vanderbilt University)"
 collection: teaching
-teaching_type: "Course"
+teaching_type: "Undergraduate course"
 permalink: /teaching/2022_Spring/ 
 redirect_from:
   - /teaching/2022_Spring/ 
@@ -13,6 +13,7 @@ excerpt: "Properties of steel and design philosophies"
 ## CE 3205: Structural Design -- 2022 Spring (Vanderbilt University)
 
 **Instructor:** Dr. Lori A. Troxel
+
 **TA** Xueqi Cheng
 
 **Time:**  MWF, 11:00 – 12:15 pm 
