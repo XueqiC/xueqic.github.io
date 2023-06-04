@@ -11,11 +11,7 @@ excerpt: "<i>Undergraduate course, Teaching assistant</i><br/>
 Applications to systems of forces in two and three dimensions ."
 ---
 
-## CE 2200: Statics -- 2023 Spring (Vanderbilt University)
-
 **Instructor:** Dr. Ghina Nakad Absi
-
-**TA** Xueqi Cheng
 
 **Time:**  MWF, 09:05 – 09:55 am 
 

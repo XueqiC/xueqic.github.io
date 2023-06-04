@@ -11,7 +11,6 @@ excerpt: "<i>Undergraduate course, Teaching assistant</i><br/>
 Properties of steel and design philosophies."
 ---
 
-## CE 3205: Structural Design -- 2022 Spring (Vanderbilt University)
 
 **Instructor:** Dr. Lori A. Troxel
 
