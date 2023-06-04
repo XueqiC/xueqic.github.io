@@ -7,7 +7,7 @@ redirect_from:
   - /teaching/2023_Spring/ 
 institution: "Vanderbilt University, Civil and Environmental Engineering"
 date: 2023-01
-excerpt: "Intermediate undergraduate course on the relationship between data and culture"
+excerpt: "Applications to systems of forces in two and three dimensions"
 ---
 
 ## CE 2200: Statics -- 2023 Spring (Vanderbilt University)
