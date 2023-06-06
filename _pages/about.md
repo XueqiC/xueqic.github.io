@@ -14,7 +14,7 @@ Prior to joining Vanderbilt University, I receieved the B.S. degree from [Southw
 
 Research
 =======
-My research interests lie in machine learning on graphs and data mining.
+I have a strong passion for machine learning on graphs, data mining, and social network analysis. My current research revolves around the development of edge classification techniques for imbalanced datasets, with a primary emphasis on achieving high accuracy, effectiveness, and robustness. 
 
 News
 =======
