@@ -14,7 +14,7 @@ Prior to joining Vanderbilt University, I received the B.S. degree from [Southwe
 
 Research
 =======
-I am passionate about deep learning on <strong>complex graphs</strong>, <strong>out-of-distribution generalization</strong>, and <strong>imbalanced learning on graphs</strong>. I am focusing on mitigating the imbalance problems in graph machine learning now.
+I am passionate about <strong>deep learning on complex graphs</strong>, <strong>out-of-distribution generalization</strong>, and <strong>imbalanced learning on graphs</strong>, and I am focusing on mitigating the imbalance problems in graph machine learning now. Feel free to drop me an email if we have aligned interests, and I’m open to collaborations.
 
 News
 =======
