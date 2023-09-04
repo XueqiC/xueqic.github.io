@@ -10,14 +10,18 @@ redirect_from:
 
 Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Derr](https://tylersnetwork.github.io/) in the [Network and Data Science (NDS) Lab](https://nds-vu.github.io/).
 
-Prior to joining Vanderbilt University, I receieved the B.S. degree from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and the M.S. degree from [University of Michigan, Ann Arbor](https://umich.edu/).
+Prior to joining Vanderbilt University, I received the B.S. degree from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and the M.S. degree from [University of Michigan, Ann Arbor](https://umich.edu/).
 
 Research
 =======
-I have a strong passion for machine learning on graphs, data mining, and social network analysis. Currently I am focusing on mitigating the imbalance problems in graph machine learning.
+I am passionate about deep learning on complex graphs, out-of-distribution generalization, and imbalanced
+learning on graphs. I am focusing on mitigating the imbalance problems in graph machine learning now.
 
 News
 =======
+[08/2023] Our preprint <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is now online! <br />
+[08/2023] Invited to serve as a PC member for IEEE workshop BigData CTA3 2023! <br />
+[07/2023] Our preprint <a href=\"https://arxiv.org/abs/2307.04644\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Diversity in Recommender Systems: A Survey</a> is now online <br />
 [06/2023] Invitied to serve as a reviewer for ICWSM 2024! <br />
 [05/2023] Exicted to join NDS Lab supervised by Dr. Derr!
 
