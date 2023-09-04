@@ -19,9 +19,9 @@ learning on graphs. I am focusing on mitigating the imbalance problems in graph 
 
 News
 =======
-[08/2023] Our preprint <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is now online! <br />
+[08/2023] Our preprint [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375) is now online! <br />
 [08/2023] Invited to serve as a PC member for IEEE workshop BigData CTA3 2023! <br />
-[07/2023] Our preprint <a href=\"https://arxiv.org/abs/2307.04644\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Diversity in Recommender Systems: A Survey</a> is now online <br />
+[07/2023] Our preprint [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644) is now online <br />
 [06/2023] Invitied to serve as a reviewer for ICWSM 2024! <br />
 [05/2023] Exicted to join NDS Lab supervised by Dr. Derr!
 
