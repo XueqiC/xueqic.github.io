@@ -18,11 +18,11 @@ I am passionate about <strong>deep learning on complex graphs</strong>, <strong>
 
 News
 =======
+[11/2023] Invited to serve as the publicity chair of The 5th International Workshop on Machine Learning on Graphs (MLoG) at WSDM’24! <br />
 [10/2023] Our preprint [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) is now online! <br />
 [08/2023] Our preprint [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375) is now online! <br />
 [08/2023] Invited to serve as a PC member for IEEE workshop BigData CTA3 2023! <br />
 [07/2023] Our preprint [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644) is now online! <br />
-[06/2023] Invitied to serve as a reviewer for ICWSM 2024! <br />
 [05/2023] Exicted to join NDS Lab supervised by Dr. Derr!
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
