@@ -18,6 +18,7 @@ I am passionate about <strong>deep learning on complex graphs</strong>, <strong>
 
 News
 =======
+[10/2023] Our preprint [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) is now online! <br />
 [08/2023] Our preprint [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375) is now online! <br />
 [08/2023] Invited to serve as a PC member for IEEE workshop BigData CTA3 2023! <br />
 [07/2023] Our preprint [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644) is now online! <br />
