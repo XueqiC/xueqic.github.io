@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Derr](https://tylersnetwork.github.io/) in the [Network and Data Science (NDS) Lab](https://nds-vu.github.io/).
-
-Prior to joining Vanderbilt University, I received the B.S. degree from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and the M.S. degree from [University of Michigan, Ann Arbor](https://umich.edu/).
+Hi! I’m Xueqi Cheng, a M.S. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Derr](https://tylersnetwork.github.io/) in the [Network and Data Science (NDS) Lab](https://nds-vu.github.io/). Before joining Vanderbilt University, I received the M.S. degree from [University of Michigan, Ann Arbor](https://umich.edu/) and the B.S. degree from [Southwest Jiaotong University](https://en.swjtu.edu.cn/).
 
 Research
 =======
-I am passionate about <strong>data mining</strong>, <strong>deep learning on graphs</strong>, and <strong>computational social science</strong>. Feel free to email me if we have aligned interests, and I’m open to collaborations.
+I am passionate about <strong>deep learning on graphs</strong>, <strong>network analysis</strong>, <strong>computational social science</strong>, and <strong>LLMs</strong>. Feel free to email me if we have aligned interests, and I’m open to collaborations.
 
 News
 =======
