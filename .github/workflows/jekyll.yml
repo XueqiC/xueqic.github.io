@@ -1,3 +1,8 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
@@ -19,7 +24,7 @@ jobs:
   build:
     runs-on: ubuntu-22.04  # Explicitly use a supported runner
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Ruby
@@ -31,15 +36,15 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4  # Updated to latest version
+        uses: actions/configure-pages@v3
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
-      - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v4  # Updated to latest version
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
 
   deploy:
     environment:
@@ -50,6 +55,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2  # This is already the latest version
+        uses: actions/deploy-pages@v2
+
 
 
