@@ -23,7 +23,7 @@ Selected Papers
 
 3. <strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, and Tyler Derr. "A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions." [[Paper]](https://arxiv.org/abs/2410.19214)[[Code]](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction) (2024).
 
-4. Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng et al. "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey." [[Paper]](https://arxiv.org/abs/2502.06872))[[Code]](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) (2025). 
+4. Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng et al. "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey." [[Paper]](https://arxiv.org/abs/2502.06872)[[Code]](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) (2025). 
 
 5. Yu Wang, Tong Zhao, Yuying Zhao, Yunchao Liu, <strong>Xueqi Cheng</strong>, Neil Shah, and Tyler Derr. "A Topological Perspective on Demystifying GNN-Based Link Prediction Performance."  International Conference on Learning Representations (ICLR) [[Paper]](https://arxiv.org/abs/2310.04612)[[code]](https://github.com/YuWVandy/Topo_LP_GNN) (2024).
 
