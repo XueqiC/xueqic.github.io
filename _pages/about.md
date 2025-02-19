@@ -16,6 +16,7 @@ I am passionate about <strong>deep learning on graphs</strong>, <strong>network 
 
 News
 =======
+[02/2025] Our new survey [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) is now online! <br />
 [11/2024] Our paper [Edge-centric Analytics in Networks](https://github.com/XueqiC/xueqic.github.io/blob/master/edge.pdf) is accepted at WSDM'25 Doctoral Consortium! <br />
 [10/2024] Our paper [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214) is now online! <br />
 [10/2024] Our paper [Edge Classification on Graphs: New Directions in Topological Imbalance](https://arxiv.org/abs/2406.11685) is accepted at WSDM'25! <br />
