@@ -21,7 +21,7 @@ News
 [10/2024] Our paper [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214) is now online! <br />
 [10/2024] Our paper [Edge Classification on Graphs: New Directions in Topological Imbalance](https://dl.acm.org/doi/10.1145/3701551.3703518) is accepted at WSDM'25! <br />
 [08/2024] Our paper [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375) is accepted at IEEE TKDE! <br />
-[06/2024] Our paper [Edge Classification on Graphs: New Directions in Topological Imbalance](https://arxiv.org/abs/2406.11685) is now online! <br />
+[06/2024] Our preprint [Edge Classification on Graphs: New Directions in Topological Imbalance](https://arxiv.org/abs/2406.11685) is now online! <br />
 [04/2024] Our paper [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644) is accepted at ACM TIST! <br />
 [01/2024] Our paper [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) is accepted at ICLR'24! <br />
 [11/2023] Invited to serve as the publicity chair of The 5th International Workshop on Machine Learning on Graphs (MLoG) at WSDM’24! <br />
