@@ -17,9 +17,9 @@ Selected Papers
 {% endfor %}
 
 
-1. <strong>Xueqi Cheng</strong>, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. "Edge Classification on Graphs: New Directions in Topological Imbalance." ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://arxiv.org/abs/2406.11685)[[Code]](https://github.com/XueqiC/TopoEdge) (2025).
+1. <strong>Xueqi Cheng</strong>, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. "Edge Classification on Graphs: New Directions in Topological Imbalance." ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/10.1145/3701551.3703518)[[Code]](https://github.com/XueqiC/TopoEdge) (2025).
 
-2. <strong>Xueqi Cheng</strong>. "Edge-Centric Network Analytics" ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://github.com/XueqiC/xueqic.github.io/blob/master/edge.pdf)(2025).
+2. <strong>Xueqi Cheng</strong>. "Edge-Centric Network Analytics" ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3707418)(2025).
 
 3. <strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, and Tyler Derr. "A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions." [[Paper]](https://arxiv.org/abs/2410.19214)[[Code]](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction) (2024).
 
