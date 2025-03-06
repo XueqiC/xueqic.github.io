@@ -17,9 +17,9 @@ I am passionate about <strong>deep learning on graphs</strong>, <strong>network 
 News
 =======
 [02/2025] Our new survey [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) is now online! <br />
-[11/2024] Our paper [Edge-centric Analytics in Networks](https://github.com/XueqiC/xueqic.github.io/blob/master/edge.pdf) is accepted at WSDM'25 Doctoral Consortium! <br />
+[11/2024] Our paper [Edge-centric Analytics in Networks](https://dl.acm.org/doi/abs/10.1145/3701551.3707418) is accepted at WSDM'25 Doctoral Consortium! <br />
 [10/2024] Our paper [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214) is now online! <br />
-[10/2024] Our paper [Edge Classification on Graphs: New Directions in Topological Imbalance](https://arxiv.org/abs/2406.11685) is accepted at WSDM'25! <br />
+[10/2024] Our paper [Edge Classification on Graphs: New Directions in Topological Imbalance](https://dl.acm.org/doi/10.1145/3701551.3703518) is accepted at WSDM'25! <br />
 [08/2024] Our paper [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375) is accepted at IEEE TKDE! <br />
 [06/2024] Our paper [Edge Classification on Graphs: New Directions in Topological Imbalance](https://arxiv.org/abs/2406.11685) is now online! <br />
 [04/2024] Our paper [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644) is accepted at ACM TIST! <br />
