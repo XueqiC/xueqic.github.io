@@ -17,6 +17,8 @@ Selected Papers
 {% endfor %}
 
 
+1. <strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, Tyler Derr. "BTS: A Comprehensive Benchmark for Tie Strength Prediction." In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD, Oral), [[Paper]](https://arxiv.org/abs/2410.19214)[[Code]](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction)(2025).
+
 1. <strong>Xueqi Cheng</strong>, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. "Edge Classification on Graphs: New Directions in Topological Imbalance." ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/10.1145/3701551.3703518)[[Code]](https://github.com/XueqiC/TopoEdge) (2025).
 
 2. <strong>Xueqi Cheng</strong>. "Edge-Centric Network Analytics" ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3707418)(2025).
