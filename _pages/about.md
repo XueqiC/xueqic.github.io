@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Dr. Derr](https://tylersnetwork.github.io/) in the [Network and Data Science (NDS) Lab](https://nds-vu.github.io/). Before joining Vanderbilt University, I received the M.S. degree from [University of Michigan, Ann Arbor](https://umich.edu/) and the B.S. degree from [Southwest Jiaotong University](https://en.swjtu.edu.cn/).
+Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI(RAI) Lab. 
 
 Research
 =======
-I am passionate about <strong>deep learning on graphs</strong>, <strong>network analysis</strong>, <strong>computational social science</strong>, and <strong>LLMs</strong>. Feel free to email me if we have aligned interests, and I’m open to collaborations.
+I am passionate about <strong>data mining</strong>, <strong>machine learning</strong>, with emphasis on knowledge extraction, network analysis, and the development of secure,
+efficient, and serviceable ML systems. Feel free to email me if we have aligned interests, and I’m open to collaborations.
 
 News
 =======
+[06/2025] Joined AT&T Lab as a research intern working on improving the serviceability of LLM! <br />
+[05/2025] Awarded Dean’s Doctoral Student Award @ Florida State University! <br />
+[05/2025] Our paper [BTS: A Comprehensive Benchmark for Tie Strength Prediction](https://arxiv.org/abs/2410.19214) is accepted at KDD'25 Oral! <br />
 [02/2025] Our new survey [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) is now online! <br />
 [11/2024] Our paper [Edge-Centric Network Analytics](https://dl.acm.org/doi/abs/10.1145/3701551.3707418) is accepted at WSDM'25 Doctoral Consortium! <br />
 [10/2024] Our paper [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214) is now online! <br />
@@ -27,8 +31,8 @@ News
 [11/2023] Invited to serve as the publicity chair of The 5th International Workshop on Machine Learning on Graphs (MLoG) at WSDM’24! <br />
 [10/2023] Our preprint [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) is now online! <br />
 [08/2023] Our preprint [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375) is now online! <br />
-[08/2023] Invited to serve as a PC member for IEEE workshop BigData CTA3 2023! <br />
-[08/2023] Awarded Vanderbilt Engineering Graduate Fellowship! <br />
+[08/2023] Invited to serve as a PC member for the IEEE workshop BigData CTA3 2023! <br />
+[08/2023] Awarded Engineering Graduate Fellowship @ Vanderbilt University! <br />
 [07/2023] Our preprint [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644) is now online! <br />
 [05/2023] Excited to join NDS Lab supervised by Dr. Derr!
 
