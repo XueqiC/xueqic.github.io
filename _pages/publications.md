@@ -16,7 +16,7 @@ Selected Papers
   {% include archive-single.html %}
 {% endfor %}
 
-1. <strong>Xueqi Cheng</strong>, Minxing Zheng, Shixiang Zhu, Yushun Dong. "MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models" [[Paper]](https://arxiv.org/abs/2506.02362)[[Code]](https://github.com/XueqiC/MISLEADER)(2025)
+1. <strong>Xueqi Cheng</strong>, Minxing Zheng, Shixiang Zhu, Yushun Dong. "MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models" [[Paper]](https://arxiv.org/abs/2506.02362)[[Code]](https://github.com/XueqiC/MISLEADER)(2025).
 
 2. <strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, Tyler Derr. "BTS: A Comprehensive Benchmark for Tie Strength Prediction." In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD, Oral) [[Paper]](https://arxiv.org/abs/2410.19214)[[Code]](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction)(2025).
 
