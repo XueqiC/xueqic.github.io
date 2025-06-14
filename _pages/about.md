@@ -23,9 +23,11 @@ efficient, and serviceable ML systems. Feel free to email me if we have aligned 
 - **[10/2024]** 📢 Our paper [**Edge Classification on Graphs: New Directions in Topological Imbalance**](https://dl.acm.org/doi/10.1145/3701551.3703518) has been accepted at **WSDM'25**!
 - **[08/2024]** 🎓 Our paper [**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**](https://arxiv.org/abs/2308.16375) has been accepted by **IEEE TKDE**!
 - **[06/2024]** 📄 Our preprint [**Edge Classification on Graphs: New Directions in Topological Imbalance**](https://arxiv.org/abs/2406.11685) is now available online!
+
 <details>
   <summary><strong>More News</strong></summary>
   <br>
+  
 - **[04/2024]** 📚 Our paper [**Fairness and Diversity in Recommender Systems: A Survey**](https://arxiv.org/abs/2307.04644) has been accepted by **ACM TIST**!
 - **[01/2024]** 🎯 Our paper [**A Topological Perspective on Demystifying GNN-Based Link Prediction Performance**](https://arxiv.org/abs/2310.04612) has been accepted at **ICLR'24**!
 - **[11/2023]** 📅 Invited to serve as the Publicity Chair for **The 5th International Workshop on Machine Learning on Graphs (MLoG)** at **WSDM’24**!
