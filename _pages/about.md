@@ -17,7 +17,7 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 - **[06/2025]** 📄 Our paper [**MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models**](https://arxiv.org/abs/2506.02362) is now available online!
 - **[06/2025]** 🎯 Excited to join **AT&T Labs** as a research intern to enhance the serviceability of Large Language Models (LLMs).
 - **[05/2025]** 🏅 Received the **Dean’s Doctoral Student Award** from Florida State University!
-- **[05/2025]** 🎉 Our paper [**BTS: A Comprehensive Benchmark for Tie Strength Prediction**](https://arxiv.org/abs/2410.19214) has been accepted for an oral presentation at **KDD’25**!
+- **[05/2025]** 🎉 Our paper [**BTS: A Comprehensive Benchmark for Tie Strength Prediction**](https://arxiv.org/abs/2410.19214) has been accepted for an **oral** presentation at **KDD’25**!
 - **[02/2025]** 📄 Our survey [**Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**](https://arxiv.org/abs/2502.06872) is now available online!
 - **[11/2024]** 🎉 Our paper [**Edge-Centric Network Analytics**](https://dl.acm.org/doi/abs/10.1145/3701551.3707418) has been accepted at **WSDM'25 Doctoral Consortium**!
 - **[10/2024]** 📄 Our preprint [**A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions**](https://arxiv.org/abs/2410.19214) is now available online!
