@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research aims to enhance the **utility**, **security**, and **efficiency** of **Machine Learning as a Service (MLaaS)**, with applications ranging from **graph-based learning** to **natural language processing** and **computer vision**. I am also broadly interested in **social network analysis** and **AI for social good**, focusing on how AI can help address key societal challenges.
 
-Feel free to drop me an email if you are interested in collaboration: [Contact me](mailto:xc25@fsu.edu).
+Feel free to drop me an [email](mailto:xc25@fsu.edu) if you are interested in collaboration!
 
 ## News
 
