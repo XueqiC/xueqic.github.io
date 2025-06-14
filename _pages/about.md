@@ -27,8 +27,8 @@ efficient, and serviceable ML systems. Feel free to email me if we have aligned 
 
 <details>
   <summary style="cursor: pointer;"><strong>More News</strong></summary>
+  
   <ul style="padding-left: 20px; margin-top: 10px;">
-    
     <li><strong>[04/2024]</strong> 📚 Our paper <a href="https://arxiv.org/abs/2307.04644"><strong>Fairness and Diversity in Recommender Systems: A Survey</strong></a> has been accepted by <strong>ACM TIST</strong>!</li>
     <li><strong>[01/2024]</strong> 🎯 Our paper <a href="https://arxiv.org/abs/2310.04612"><strong>A Topological Perspective on Demystifying GNN-Based Link Prediction Performance</strong></a> has been accepted at <strong>ICLR'24</strong>!</li>
     <li><strong>[11/2023]</strong> 📅 Invited to serve as the Publicity Chair for <strong>The 5th International Workshop on Machine Learning on Graphs (MLoG)</strong> at <strong>WSDM’24</strong>!</li>
