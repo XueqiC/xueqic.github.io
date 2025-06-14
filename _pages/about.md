@@ -26,19 +26,19 @@ efficient, and serviceable ML systems. Feel free to email me if we have aligned 
 
 
 <details>
-  <summary><strong>More News</strong></summary>
-  <br>
-  
-- **[04/2024]** 📚 Our paper [**Fairness and Diversity in Recommender Systems: A Survey**](https://arxiv.org/abs/2307.04644) has been accepted by **ACM TIST**!
-- **[01/2024]** 🎯 Our paper [**A Topological Perspective on Demystifying GNN-Based Link Prediction Performance**](https://arxiv.org/abs/2310.04612) has been accepted at **ICLR'24**!
-- **[11/2023]** 📅 Invited to serve as the Publicity Chair for **The 5th International Workshop on Machine Learning on Graphs (MLoG)** at **WSDM’24**!
-- **[10/2023]** 📄 Our preprint [**A Topological Perspective on Demystifying GNN-Based Link Prediction Performance**](https://arxiv.org/abs/2310.04612) is now online!
-- **[08/2023]** 📄 Our preprint [**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**](https://arxiv.org/abs/2308.16375) is now online!
-- **[08/2023]** 📝 Invited as a PC member for the **IEEE workshop BigData CTA3 2023**!
-- **[08/2023]** 🎖 Awarded the **Engineering Graduate Fellowship** at Vanderbilt University!
-- **[07/2023]** 📄 Our preprint [**Fairness and Diversity in Recommender Systems: A Survey**](https://arxiv.org/abs/2307.04644) is now online!
-- **[05/2023]** 🚀 Excited to join **NDS Lab** under the supervision of Dr. Derr!
-  
+  <summary style="cursor: pointer;"><strong>More News</strong></summary>
+  <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>[04/2024]</strong> 📚 Our paper <a href="https://arxiv.org/abs/2307.04644"><strong>Fairness and Diversity in Recommender Systems: A Survey</strong></a> has been accepted by <strong>ACM TIST</strong>!</li>
+    <li><strong>[01/2024]</strong> 🎯 Our paper <a href="https://arxiv.org/abs/2310.04612"><strong>A Topological Perspective on Demystifying GNN-Based Link Prediction Performance</strong></a> has been accepted at <strong>ICLR'24</strong>!</li>
+    <li><strong>[11/2023]</strong> 📅 Invited to serve as the Publicity Chair for <strong>The 5th International Workshop on Machine Learning on Graphs (MLoG)</strong> at <strong>WSDM’24</strong>!</li>
+    <li><strong>[10/2023]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2310.04612"><strong>A Topological Perspective on Demystifying GNN-Based Link Prediction Performance</strong></a> is now online!</li>
+    <li><strong>[08/2023]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2308.16375"><strong>A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</strong></a> is now online!</li>
+    <li><strong>[08/2023]</strong> 📝 Invited as a PC member for the <strong>IEEE workshop BigData CTA3 2023</strong>!</li>
+    <li><strong>[08/2023]</strong> 🎖 Awarded the <strong>Engineering Graduate Fellowship</strong> at Vanderbilt University!</li>
+    <li><strong>[07/2023]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2307.04644"><strong>Fairness and Diversity in Recommender Systems: A Survey</strong></a> is now online!</li>
+    <li><strong>[05/2023]</strong> 🚀 Excited to join <strong>NDS Lab</strong> under the supervision of Dr. Derr!</li>
+  </ul>
 </details>
+
 
 
