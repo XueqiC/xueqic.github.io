@@ -27,7 +27,7 @@ Experience
 
 Awards
 -----
-* Dean's Doctoral Student Award @ Florida State University
+* Dean's Doctoral Student Award @ Florida State University, 2025
 * Engineering Graduate Fellowship @ Vanderbilt University, 2023
 * IBM PhD Fellowship @ Vanderbilt University, 2021
 
