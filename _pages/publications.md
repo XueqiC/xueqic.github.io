@@ -24,7 +24,7 @@ Selected Papers
 
 4. <strong>Xueqi Cheng</strong>. "Edge-Centric Network Analytics" ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3707418) (2025).
 
-5. Yuying Zhao, Yu Wang, <strong>Xueqi Cheng</strong>, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, and Tyler Derr. "Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs." [[Paper]](https://arxiv.org/abs/2505.01698) (2025).
+5. Yuying Zhao, Yu Wang, <strong>Xueqi Cheng</strong>, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, and Tyler Derr. "Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs." [[Paper]](https://arxiv.org/abs/2505.01698)[[Code]](https://github.com/YuyingZhao/LLM-influence-amplifier) (2025).
 
 6. Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng et al. "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey." [[Paper]](https://arxiv.org/abs/2502.06872)[[Code]](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) (2025). 
 
