@@ -22,7 +22,7 @@ You can find my most up-to-date CV <a href='https://xueqic.github.io/new_cv.pdf'
 
 Experience
 -----
-* June 2025 - Aug. 2025: Research Intern, AT&T Labs.
+* June 2025 - Aug. 2025: Research Intern, AT&T Labs
 * Aug. 2021 - May 2025: Research Assistant/Teaching Assistant, Vanderbilt University
 
 Awards
