@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research aims to enhance the **utility**, **security**, and **efficiency** of **Machine Learning as a Service (MLaaS)**, with applications ranging from **graph-based learning** to **natural language processing** and **computer vision**. I am also broadly interested in **social network analysis** and **AI for social good**, focusing on how AI can help address key societal challenges.
+Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research focuses on improving the utility, security, and efficiency of Machine-Learning-as-a-Service (MLaaS), with an emphasis on large language models (LLMs) and graph neural networks (GNNs). I am also interested in social network analysis and AI for social good, investigating how AI can help address societally important challenges.
 
 Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in collaboration!
 
 ## News
 
+- **[01/2026]** 🏅 Received the **NSF Travel Award** for WSDM'26, see you in Boise!
+- **[01/2026]** 🌋 Our open-source Python library [**PyHazards**](https://github.com/LabRAI/PyHazards) is now online! **PyHazards** is an AI-based toolkit for natural hazard prediction, and we’d love to collaborate, get feedback, and welcome contributions!
+- **[09/2025]** 🏅 Received the **Naaman Franklin Faile Jr. Graduate Fellowship** from Florida State University!
 - **[06/2025]** 📄 Our paper [**MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models**](https://arxiv.org/abs/2506.02362) is now available online!
 - **[06/2025]** 🎯 Excited to join **AT&T Labs** as a research intern to enhance the serviceability of Large Language Models (LLMs).
-- **[05/2025]** 🏅 Received the **Dean’s Doctoral Student Award** from Florida State University!
 - **[05/2025]** 📄 Our preprint [**Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs**](https://arxiv.org/abs/2505.01698) is now available online!
 - **[05/2025]** 🎉 Our paper [**BTS: A Comprehensive Benchmark for Tie Strength Prediction**](https://arxiv.org/abs/2410.19214) has been accepted for an **oral** presentation at **KDD’25**!
 - **[02/2025]** 📄 Our survey [**Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**](https://arxiv.org/abs/2502.06872) is now available online!
