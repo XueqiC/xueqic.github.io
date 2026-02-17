@@ -15,7 +15,7 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 ## News
 
 - **[01/2026]** 🏅 Received the **NSF Travel Award** for WSDM'26, see you in Boise!
-- **[01/2026]** 🌋 Our open-source Python library [**PyHazards**](https://github.com/LabRAI/PyHazards) is now online! **PyHazards** is an AI-based toolkit for natural hazard prediction, and we’d love to collaborate, get feedback, and welcome contributions!
+- **[01/2026]** 🌋 Our open-source Python library [**PyHazards**](https://labrai.github.io/PyHazards/) is now online! **PyHazards** is an AI-based toolkit for natural hazard prediction, and we’d love to collaborate, get feedback, and welcome contributions!
 - **[09/2025]** 🏅 Received the **Naaman Franklin Faile Jr. Graduate Fellowship** from Florida State University!
 - **[06/2025]** 📄 Our paper [**MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models**](https://arxiv.org/abs/2506.02362) is now available online!
 - **[06/2025]** 🎯 Excited to join **AT&T Labs** as a research intern to enhance the serviceability of Large Language Models (LLMs).
