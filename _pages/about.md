@@ -14,10 +14,10 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 
 ## Research Interests
 
-- **Agentic AI**: building efficient and reliable LLM-based agents, including agent distillation, which transfers the capabilities of large agents into smaller models.
-- **LLM Compression**: making LLMs cheaper to deploy and serve through knowledge distillation, pruning, and quantization, e.g., capability distillation into smaller LLMs ([ReAD](https://arxiv.org/abs/2605.11290)) and efficient multi-turn serving with small language models ([SOMA](https://arxiv.org/abs/2605.11317)).
-- **Multimodal Models**: matching each image-question query to the multimodal large language model (MLLM) best suited to it, i.e., MLLM routing ([LatentRouter](https://arxiv.org/abs/2605.11301), NeurIPS'26).
-- **AI for Social Good and Real-World Applications**: social network analysis ([BTS](https://arxiv.org/abs/2410.19214), KDD'25 Oral; [Adverse Online Social Interactions](https://arxiv.org/abs/2606.20846)) and civil and infrastructure engineering, such as natural hazard prediction ([PyHazards](https://labrai.github.io/PyHazards/), [Wildfire Benchmark](https://arxiv.org/abs/2606.15529)).
+- **Agentic AI**: agent distillation, which transfers the capabilities of large LLM-based agents into smaller and more efficient models, and model routing, which dispatches each query to the most suitable model.
+- **LLM Compression**: making LLMs cheaper to deploy and serve through knowledge distillation, pruning, quantization, and related techniques.
+- **Multimodal Models**: improving the capability, efficiency, and reliability of multimodal large language models (MLLMs).
+- **AI for Social Good and Real-World Applications**: applying AI to societally important problems, including social network analysis and civil and infrastructure engineering.
 
 ## News
 
