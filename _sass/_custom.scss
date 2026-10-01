@@ -43,12 +43,12 @@ $cv-muted: #5F6670;
 
   a {
     color: inherit;
-    text-decoration: none;
+    text-decoration: none !important;
   }
 
   a:hover {
     color: $cv-accent;
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
 }
 
@@ -61,16 +61,11 @@ $cv-muted: #5F6670;
   color: $cv-muted;
 }
 
-.pub__note {
-  display: inline-block;
-  margin-left: 0.3em;
-  padding: 0 0.45em;
-  border-radius: 4px;
+.pub__badge .pub__note {
+  display: block;
+  width: max-content;
+  margin-top: 0.3em;
   background: #B3261E;
-  color: #fff;
-  font-size: 0.8em;
-  font-style: normal;
-  font-weight: 600;
 }
 
 .pub__links {
@@ -85,12 +80,11 @@ $cv-muted: #5F6670;
   border-radius: 4px;
   color: $cv-accent;
   font-size: 0.75em;
-  text-decoration: none;
+  text-decoration: none !important;
 
   &:hover {
     background: $cv-accent;
     color: #fff;
-    text-decoration: none;
   }
 
   &:visited {
@@ -135,10 +129,9 @@ $cv-muted: #5F6670;
   background: $cv-accent;
   color: #fff !important;
   font-weight: 600;
-  text-decoration: none;
+  text-decoration: none !important;
 
   &:hover {
     background: mix(#000, $cv-accent, 20%);
-    text-decoration: none;
   }
 }

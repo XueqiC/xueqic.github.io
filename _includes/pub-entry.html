@@ -3,11 +3,11 @@
 {%- endcomment -%}
 {%- assign p = include.pub -%}
 <div class="pub">
-  <div class="pub__badge"><span>{{ p.badge }}</span></div>
+  <div class="pub__badge"><span>{{ p.badge }}</span>{% if p.note %}<span class="pub__note">{{ p.note }}</span>{% endif %}</div>
   <div class="pub__body">
     <div class="pub__title">{% if p.paper %}<a href="{{ p.paper }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</div>
     <div class="pub__authors">{{ p.authors }}</div>
-    <div class="pub__venue"><em>{{ p.venue }}</em>{% if p.note %} <span class="pub__note">{{ p.note }}</span>{% endif %}</div>
+    <div class="pub__venue"><em>{{ p.venue }}</em></div>
     {%- if p.paper or p.code %}
     <div class="pub__links">
       {%- if p.paper %}<a class="pub__btn" href="{{ p.paper }}"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>{% endif -%}
