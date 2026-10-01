@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xueqi Cheng"
 title_separator          : "-"
 name                     : &name "Xueqi Cheng"
-description              : &description "personal description"
+description              : &description "Xueqi Cheng, Ph.D. student in Computer Science at Florida State University, working on LLMs, graph neural networks, and trustworthy, efficient Machine-Learning-as-a-Service."
 url                      : https://xueqic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XueqiC/xueqic.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "XueqiCheng.jpg"
   bio              : "Ph.D. Student in Computer Science at Florida State University"
   location         : "Tallahassee, FL, USA"
-  email            : "xueqi.cheng@vanderbilt.edu"
+  email            : "xc25@fsu.edu"
   github           : "XueqiC"
   employer         :
   pubmed           : 

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my most up-to-date CV <a href='https://xueqic.github.io/new_cv.pdf' target="_blank">here</a>.
+
 Education
 -----
 * Ph.D in Computer Science, Florida State University
@@ -18,17 +20,26 @@ Education
 * M.S. in Systems Engineering, Vanderbilt University
   * Aug. 2021 - May 2023
 
-You can find my most up-to-date CV <a href='https://xueqic.github.io/new_cv.pdf' target="_blank">here</a>.
-
 Experience
 -----
+* May 2026 - Aug. 2026: Research Intern, Nokia Applied Research
+* Aug. 2025 - present: Ph.D. Student, Responsible AI Lab, Florida State University
 * June 2025 - Aug. 2025: Research Intern, AT&T Labs
 * Aug. 2021 - May 2025: Research Assistant/Teaching Assistant, Vanderbilt University
 
 Awards
 -----
-* Dean's Doctoral Student Award @ Florida State University, 2025
+* Osher Lifelong Learning Institute Scholarship @ Florida State University, 2026
+* WSDM NSF Travel Award, 2026
+* CS Student Seminar Best Presentation Runner-Up @ Florida State University, 2025
+* Naaman Franklin Faile Jr. Graduate Fellowship @ Florida State University, 2025
 * Engineering Graduate Fellowship @ Vanderbilt University, 2023
 * IBM PhD Fellowship @ Vanderbilt University, 2021
+
+Services
+-----
+* Publicity Chair: The 5th International Workshop on Machine Learning on Graphs (MLoG) at WSDM'24
+* Conference Reviewer/PC Member: NeurIPS, ICML, KDD, ICWSM, WSDM, AAAI, WWW, SDM, IEEE Big Data, CIKM
+* Journal Reviewer: Pattern Recognition, TKDD
 
 <!-- <embed src="https://xueqic.github.io/new_cv.pdf" type="application/pdf" width="100%" /> -->
