@@ -22,7 +22,7 @@ Education
 
 Experience
 -----
-* May 2026 - Aug. 2026: Research Intern, Nokia Applied Research
+* May 2026 - present: Research Intern, Nokia Applied Research
 * Aug. 2025 - present: Ph.D. Student, Responsible AI Lab, Florida State University
 * June 2025 - Aug. 2025: Research Intern, AT&T Labs
 * Aug. 2021 - May 2025: Research Assistant/Teaching Assistant, Vanderbilt University
