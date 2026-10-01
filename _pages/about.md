@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research focuses on **agent distillation** and **multimodal large language models (MLLMs)**. I am also interested in **AI for social good** and real-world applications of AI, including **social network analysis** and **civil and infrastructure engineering**.
+Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research has been published at top venues including **NeurIPS**, **KDD** (Oral), **ICLR**, and **WSDM**, and in journals including **ACM Computing Surveys**, **IEEE TKDE**, and **ACM TIST**. I have conducted industrial research as a research intern at **Nokia Applied Research** and **AT&T Labs**. My work has been supported by the **Naaman Franklin Faile Jr. Graduate Fellowship**, the **IBM PhD Fellowship**, and the **WSDM NSF Travel Award**, and I serve as a reviewer for venues such as NeurIPS, ICML, KDD, and WWW.
 
 Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in collaboration!
+
+## Research Interests
+
+- **Agentic AI**: building efficient and reliable LLM-based agents, including agent distillation, which transfers the capabilities of large agents into smaller models.
+- **LLM Compression**: making LLMs cheaper to deploy and serve through knowledge distillation, pruning, and quantization, e.g., capability distillation into smaller LLMs ([ReAD](https://arxiv.org/abs/2605.11290)) and efficient multi-turn serving with small language models ([SOMA](https://arxiv.org/abs/2605.11317)).
+- **Multimodal Models**: matching each image-question query to the multimodal large language model (MLLM) best suited to it, i.e., MLLM routing ([LatentRouter](https://arxiv.org/abs/2605.11301), NeurIPS'26).
+- **AI for Social Good and Real-World Applications**: social network analysis ([BTS](https://arxiv.org/abs/2410.19214), KDD'25 Oral; [Adverse Online Social Interactions](https://arxiv.org/abs/2606.20846)) and civil and infrastructure engineering, such as natural hazard prediction ([PyHazards](https://labrai.github.io/PyHazards/), [Wildfire Benchmark](https://arxiv.org/abs/2606.15529)).
 
 ## News
 
