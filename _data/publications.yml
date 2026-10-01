@@ -92,7 +92,7 @@
   type: preprint
   badge: In Submission
   title: "Agents on Edge Devices: Learning to Compress LLMs at Nokia"
-  authors: "<strong>Xueqi Cheng</strong>, Jiamu Zhang, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong"
+  authors: "<strong>Xueqi Cheng</strong><sup>&#42;</sup>, Jiamu Zhang<sup>&#42;</sup>, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong"
   venue: In submission
 
 - id: P08
@@ -106,7 +106,7 @@
   type: preprint
   badge: In Submission
   title: "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents"
-  authors: "Wangshu Zhu, <strong>Xueqi Cheng</strong>, Liang Wu, Yushun Dong"
+  authors: "Wangshu Zhu<sup>&#42;</sup>, <strong>Xueqi Cheng</strong><sup>&#42;</sup>, Liang Wu, Yushun Dong"
   venue: In submission
 
 - id: P06
