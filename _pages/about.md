@@ -38,17 +38,17 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 - **[05/2026]** 📄 Our preprint [**ReAD: Reinforcement-Guided Capability Distillation for Large Language Models**](https://arxiv.org/abs/2605.11290) is now available online!
 - **[05/2026]** 📄 Our preprint [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) is now available online!
 - **[05/2026]** 📄 Our preprint [**SOMA: Efficient Multi-turn LLM Serving via Small Language Model**](https://arxiv.org/abs/2605.11317) is now available online!
-- **[04/2026]** 🏅 Received the **Osher Lifelong Learning Institute Scholarship** from Florida State University!
-- **[01/2026]** 🏅 Received the **NSF Travel Award** for WSDM'26, see you in Boise!
-- **[01/2026]** 🌋 Our open-source Python library [**PyHazards**](https://labrai.github.io/PyHazards/) is now online! PyHazards is an AI-based toolkit for natural hazard prediction, and we’d love to collaborate, get feedback, and welcome contributions!
-- **[11/2025]** 🏅 Won the **Best Presentation Runner-Up** at the FSU CS Student Seminar!
-- **[09/2025]** 🏅 Received the **Naaman Franklin Faile Jr. Graduate Fellowship** from Florida State University!
 
 
 <details>
   <summary style="cursor: pointer;"><strong>More News</strong></summary>
   
   <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>[04/2026]</strong> 🏅 Received the <strong>Osher Lifelong Learning Institute Scholarship</strong> from Florida State University!</li>
+    <li><strong>[01/2026]</strong> 🏅 Received the <strong>NSF Travel Award</strong> for WSDM'26, see you in Boise!</li>
+    <li><strong>[01/2026]</strong> 🌋 Our open-source Python library <a href="https://labrai.github.io/PyHazards/"><strong>PyHazards</strong></a> is now online! PyHazards is an AI-based toolkit for natural hazard prediction, and we’d love to collaborate, get feedback, and welcome contributions!</li>
+    <li><strong>[11/2025]</strong> 🏅 Won the <strong>Best Presentation Runner-Up</strong> at the FSU CS Student Seminar!</li>
+    <li><strong>[09/2025]</strong> 🏅 Received the <strong>Naaman Franklin Faile Jr. Graduate Fellowship</strong> from Florida State University!</li>
     <li><strong>[06/2025]</strong> 📄 Our paper <a href="https://arxiv.org/abs/2506.02362"><strong>MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models</strong></a> is now available online!</li>
     <li><strong>[06/2025]</strong> 🎯 Excited to join <strong>AT&amp;T Labs</strong> as a research intern to enhance the serviceability of Large Language Models (LLMs).</li>
     <li><strong>[05/2025]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2505.01698"><strong>Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs</strong></a> is now available online!</li>

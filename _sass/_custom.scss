@@ -109,6 +109,22 @@ $cv-muted: #5F6670;
   font-size: 0.85em;
 }
 
+/* Preprints / in-submission work get a gray venue tag */
+.pub--preprint .pub__badge span:first-child,
+.pub--talk .pub__badge span:first-child {
+  background: $cv-muted;
+}
+
+.pub__courses {
+  margin: 0.2em 0 0 0;
+  padding-left: 1.1em;
+  font-size: 0.9em;
+
+  li {
+    margin-bottom: 0;
+  }
+}
+
 /* Stack the badge above the entry on narrow screens */
 @media (max-width: 600px) {
   .pub {

@@ -13,7 +13,7 @@
   badge: NeurIPS 2026
   title: "LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?"
   authors: "<strong>Xueqi Cheng</strong>, Yushun Dong"
-  venue: Conference on Neural Information Processing Systems (NeurIPS), 2026
+  venue: The 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
   paper: https://arxiv.org/abs/2605.11301
   code: https://github.com/LabRAI/LatentRouter
 
@@ -24,7 +24,7 @@
   note: Oral
   title: "BTS: A Comprehensive Benchmark for Tie Strength Prediction"
   authors: "<strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, Tyler Derr"
-  venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
+  venue: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
   paper: https://arxiv.org/abs/2410.19214
   code: https://github.com/XueqiC/Awesome-Tie-Strength-Prediction
 
@@ -34,7 +34,7 @@
   badge: WSDM 2025
   title: "Edge Classification on Graphs: New Directions in Topological Imbalance"
   authors: "<strong>Xueqi Cheng</strong><sup>&#42;</sup>, Yu Wang<sup>&#42;</sup>, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, Tyler Derr"
-  venue: ACM International Conference on Web Search and Data Mining (WSDM), 2025
+  venue: Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM), 2025
   paper: https://dl.acm.org/doi/10.1145/3701551.3703518
   code: https://github.com/XueqiC/TopoEdge
 
@@ -43,7 +43,7 @@
   badge: ICLR 2024
   title: "A Topological Perspective on Demystifying GNN-Based Link Prediction Performance"
   authors: "Yu Wang, Tong Zhao, Yuying Zhao, Yunchao Liu, <strong>Xueqi Cheng</strong>, Neil Shah, Tyler Derr"
-  venue: International Conference on Learning Representations (ICLR), 2024
+  venue: Proceedings of the 12th International Conference on Learning Representations (ICLR), 2024
   paper: https://arxiv.org/abs/2310.04612
   code: https://github.com/YuWVandy/Topo_LP_GNN
 
@@ -51,8 +51,8 @@
   type: journal
   badge: CSUR 2026
   title: "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey"
-  authors: "Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng, et al."
-  venue: ACM Computing Surveys (CSUR), 2026
+  authors: "Bo Ni, Zheyuan Liu, Yongjia Lei, Leyao Wang, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng, Xin Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr"
+  venue: ACM Computing Surveys (CSUR), 58(15), 2026
   paper: https://dl.acm.org/doi/10.1145/3837074
   code: https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation
 
@@ -61,15 +61,15 @@
   badge: TKDE 2024
   title: "A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"
   authors: "Yi Zhang, Yuying Zhao, Zhaoqing Li, <strong>Xueqi Cheng</strong>, Yu Wang, Olivera Kotevska, Philip S. Yu, Tyler Derr"
-  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(12), 2024
   paper: https://arxiv.org/abs/2308.16375
 
 - id: J01
   type: journal
   badge: TIST 2025
   title: "Fairness and Diversity in Recommender Systems: A Survey"
-  authors: "Yuying Zhao, Yu Wang, Yunchao Liu, <strong>Xueqi Cheng</strong>, Charu Aggarwal, Tyler Derr"
-  venue: ACM Transactions on Intelligent Systems and Technology (TIST), 2025
+  authors: "Yuying Zhao, Yu Wang, Yunchao Liu, <strong>Xueqi Cheng</strong>, Charu C. Aggarwal, Tyler Derr"
+  venue: ACM Transactions on Intelligent Systems and Technology (TIST), 16(1), 2025
   paper: https://arxiv.org/abs/2307.04644
 
 - id: W02
@@ -77,7 +77,7 @@
   badge: WSDM 2025 DC
   title: "Edge-Centric Network Analytics"
   authors: "<strong>Xueqi Cheng</strong>"
-  venue: ACM International Conference on Web Search and Data Mining (WSDM) Doctoral Consortium, 2025
+  venue: Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM), Doctoral Consortium, 2025
   paper: https://dl.acm.org/doi/abs/10.1145/3701551.3707418
 
 - id: W01
@@ -85,7 +85,29 @@
   badge: IABSE 2017
   title: "Urban Bridge Conceptual Design Based on Virtual Reality Graphic Engine"
   authors: "<strong>Xueqi Cheng</strong>, Yan Zhang, Sining Lu, Yinqiao Zhu, Wei He"
-  venue: IABSE Symposium Report, International Association for Bridge and Structural Engineering, 2017
+  venue: "IABSE Conference, Bath 2017: Creativity and Collaboration – Instilling Imagination and Innovation in Structural Design"
+  paper: https://doi.org/10.2749/222137817821232982
+
+- id: P09
+  type: preprint
+  badge: In Submission
+  title: "Agents on Edge Devices: Learning to Compress LLMs at Nokia"
+  authors: "<strong>Xueqi Cheng</strong>, Jiamu Zhang, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong"
+  venue: In submission
+
+- id: P08
+  type: preprint
+  badge: In Submission
+  title: "Capability Scaling-Down Laws for LLM Compression"
+  authors: "<strong>Xueqi Cheng</strong>, Liang Wu, Kelly Wan, Liangjie Hong, Yushun Dong"
+  venue: In submission
+
+- id: P07
+  type: preprint
+  badge: In Submission
+  title: "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents"
+  authors: "Wangshu Zhu, <strong>Xueqi Cheng</strong>, Liang Wu, Yushun Dong"
+  venue: In submission
 
 - id: P06
   type: preprint

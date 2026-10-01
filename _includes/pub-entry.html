@@ -2,7 +2,7 @@
   One publication from _data/publications.yml; pass it as include.pub.
 {%- endcomment -%}
 {%- assign p = include.pub -%}
-<div class="pub">
+<div class="pub pub--{{ p.type }}">
   <div class="pub__badge"><span>{{ p.badge }}</span>{% if p.note %}<span class="pub__note">{{ p.note }}</span>{% endif %}</div>
   <div class="pub__body">
     <div class="pub__title">{% if p.paper %}<a href="{{ p.paper }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</div>

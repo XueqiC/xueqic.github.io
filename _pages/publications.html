@@ -10,7 +10,7 @@ author_profile: true
 <p>You can also find my publications on my <a href="https://scholar.google.com/citations?user=MWnSFPMAAAAJ&amp;hl=en">Google Scholar profile</a>.</p>
 <p class="pub-footnote"><sup>&#42;</sup> denotes equal contribution (co-first authors).</p>
 
-{% assign groups = "conference|Conference Papers,journal|Journal Papers,workshop|Workshop and Symposium Papers,preprint|Preprints" | split: "," %}
+{% assign groups = "conference|Conference Papers,journal|Journal Papers,workshop|Workshop and Symposium Papers,preprint|Preprints / In Submission" | split: "," %}
 {% for g in groups %}
   {% assign parts = g | split: "|" %}
   {% assign items = site.data.publications | where: "type", parts[0] %}
