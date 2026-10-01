@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my most up-to-date CV <a href='https://xueqic.github.io/new_cv.pdf' target="_blank">here</a>.
+<a class="cv-download" href="/new_cv.pdf" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i> Download my full CV (PDF)</a>
 
 Education
 -----

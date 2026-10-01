@@ -19,6 +19,15 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 - **Multimodal Models**: improving the capability, efficiency, and reliability of multimodal large language models (MLLMs).
 - **AI for Social Good and Real-World Applications**: applying AI to societally important problems, including social network analysis and civil and infrastructure engineering.
 
+## Selected Publications
+
+<div class="selected-pubs">
+{% assign selected = site.data.publications | where: "selected", true %}
+{% for p in selected %}{% include pub-entry.html pub=p %}{% endfor %}
+</div>
+
+<p class="pub-footnote"><sup>&#42;</sup> Equal contribution. See the <a href="/publications/">full publication list</a>.</p>
+
 ## News
 
 - **[09/2026]** 🎉 Our paper [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) has been accepted at **NeurIPS'26**!

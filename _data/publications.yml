@@ -1,0 +1,142 @@
+# Single source for the Publications page and the "Selected Publications"
+# block on the home page (_includes/pub-entry.html renders one entry).
+#
+# type:     conference | journal | workshop | preprint
+# badge:    short venue tag shown on the left (e.g. "NeurIPS 2026")
+# note:     optional highlight after the venue (e.g. "Oral")
+# selected: true -> also listed on the home page
+# authors:  HTML; wrap my name in <strong>, mark co-first authors with <sup>&#42;</sup>
+
+- id: C04
+  type: conference
+  selected: true
+  badge: NeurIPS 2026
+  title: "LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?"
+  authors: "<strong>Xueqi Cheng</strong>, Yushun Dong"
+  venue: Conference on Neural Information Processing Systems (NeurIPS), 2026
+  paper: https://arxiv.org/abs/2605.11301
+  code: https://github.com/LabRAI/LatentRouter
+
+- id: C03
+  type: conference
+  selected: true
+  badge: KDD 2025
+  note: Oral
+  title: "BTS: A Comprehensive Benchmark for Tie Strength Prediction"
+  authors: "<strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, Tyler Derr"
+  venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
+  paper: https://arxiv.org/abs/2410.19214
+  code: https://github.com/XueqiC/Awesome-Tie-Strength-Prediction
+
+- id: C02
+  type: conference
+  selected: true
+  badge: WSDM 2025
+  title: "Edge Classification on Graphs: New Directions in Topological Imbalance"
+  authors: "<strong>Xueqi Cheng</strong><sup>&#42;</sup>, Yu Wang<sup>&#42;</sup>, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, Tyler Derr"
+  venue: ACM International Conference on Web Search and Data Mining (WSDM), 2025
+  paper: https://dl.acm.org/doi/10.1145/3701551.3703518
+  code: https://github.com/XueqiC/TopoEdge
+
+- id: C01
+  type: conference
+  badge: ICLR 2024
+  title: "A Topological Perspective on Demystifying GNN-Based Link Prediction Performance"
+  authors: "Yu Wang, Tong Zhao, Yuying Zhao, Yunchao Liu, <strong>Xueqi Cheng</strong>, Neil Shah, Tyler Derr"
+  venue: International Conference on Learning Representations (ICLR), 2024
+  paper: https://arxiv.org/abs/2310.04612
+  code: https://github.com/YuWVandy/Topo_LP_GNN
+
+- id: J03
+  type: journal
+  badge: CSUR 2026
+  title: "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey"
+  authors: "Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng, et al."
+  venue: ACM Computing Surveys (CSUR), 2026
+  paper: https://dl.acm.org/doi/10.1145/3837074
+  code: https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation
+
+- id: J02
+  type: journal
+  badge: TKDE 2024
+  title: "A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"
+  authors: "Yi Zhang, Yuying Zhao, Zhaoqing Li, <strong>Xueqi Cheng</strong>, Yu Wang, Olivera Kotevska, Philip S. Yu, Tyler Derr"
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024
+  paper: https://arxiv.org/abs/2308.16375
+
+- id: J01
+  type: journal
+  badge: TIST 2025
+  title: "Fairness and Diversity in Recommender Systems: A Survey"
+  authors: "Yuying Zhao, Yu Wang, Yunchao Liu, <strong>Xueqi Cheng</strong>, Charu Aggarwal, Tyler Derr"
+  venue: ACM Transactions on Intelligent Systems and Technology (TIST), 2025
+  paper: https://arxiv.org/abs/2307.04644
+
+- id: W02
+  type: workshop
+  badge: WSDM 2025 DC
+  title: "Edge-Centric Network Analytics"
+  authors: "<strong>Xueqi Cheng</strong>"
+  venue: ACM International Conference on Web Search and Data Mining (WSDM) Doctoral Consortium, 2025
+  paper: https://dl.acm.org/doi/abs/10.1145/3701551.3707418
+
+- id: W01
+  type: workshop
+  badge: IABSE 2017
+  title: "Urban Bridge Conceptual Design Based on Virtual Reality Graphic Engine"
+  authors: "<strong>Xueqi Cheng</strong>, Yan Zhang, Sining Lu, Yinqiao Zhu, Wei He"
+  venue: IABSE Symposium Report, International Association for Bridge and Structural Engineering, 2017
+
+- id: P06
+  type: preprint
+  badge: arXiv 2026
+  title: "Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption"
+  authors: "<strong>Xueqi Cheng</strong><sup>&#42;</sup>, Qinwen Ge<sup>&#42;</sup>, Hamid Karimi, Yushun Dong, Tyler Derr"
+  venue: arXiv preprint arXiv:2606.20846, 2026
+  paper: https://arxiv.org/abs/2606.20846
+  code: https://github.com/XueqiC/Adverse-Social-Interactions
+
+- id: P05
+  type: preprint
+  badge: arXiv 2026
+  title: "A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data"
+  authors: "Runyang Xu<sup>&#42;</sup>, <strong>Xueqi Cheng</strong><sup>&#42;</sup>, Yushun Dong"
+  venue: arXiv preprint arXiv:2606.15529, 2026
+  paper: https://arxiv.org/abs/2606.15529
+  code: https://github.com/LabRAI/WildfireIA
+
+- id: P04
+  type: preprint
+  badge: arXiv 2026
+  title: "SOMA: Efficient Multi-turn LLM Serving via Small Language Model"
+  authors: "<strong>Xueqi Cheng</strong>, Qiong Wu, Zhengyi Zhou, Xugui Zhou, Tyler Derr, Yushun Dong"
+  venue: arXiv preprint arXiv:2605.11317, 2026
+  paper: https://arxiv.org/abs/2605.11317
+  code: https://github.com/LabRAI/SOMA
+
+- id: P03
+  type: preprint
+  badge: arXiv 2026
+  title: "ReAD: Reinforcement-Guided Capability Distillation for Large Language Models"
+  authors: "<strong>Xueqi Cheng</strong>, Xugui Zhou, Tyler Derr, Yushun Dong"
+  venue: arXiv preprint arXiv:2605.11290, 2026
+  paper: https://arxiv.org/abs/2605.11290
+  code: https://github.com/LabRAI/ReAD
+
+- id: P02
+  type: preprint
+  badge: arXiv 2025
+  title: "MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models"
+  authors: "<strong>Xueqi Cheng</strong>, Minxing Zheng, Shixiang Zhu, Yushun Dong"
+  venue: arXiv preprint arXiv:2506.02362, 2025
+  paper: https://arxiv.org/abs/2506.02362
+  code: https://github.com/XueqiC/MISLEADER
+
+- id: P01
+  type: preprint
+  badge: arXiv 2025
+  title: "Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs"
+  authors: "Yuying Zhao, Yu Wang, <strong>Xueqi Cheng</strong>, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, Tyler Derr"
+  venue: arXiv preprint arXiv:2505.01698, 2025
+  paper: https://arxiv.org/abs/2505.01698
+  code: https://github.com/YuyingZhao/LLM-influence-amplifier

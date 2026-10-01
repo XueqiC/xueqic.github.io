@@ -1,0 +1,18 @@
+{%- comment -%}
+  One publication from _data/publications.yml; pass it as include.pub.
+{%- endcomment -%}
+{%- assign p = include.pub -%}
+<div class="pub">
+  <div class="pub__badge"><span>{{ p.badge }}</span></div>
+  <div class="pub__body">
+    <div class="pub__title">{% if p.paper %}<a href="{{ p.paper }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</div>
+    <div class="pub__authors">{{ p.authors }}</div>
+    <div class="pub__venue"><em>{{ p.venue }}</em>{% if p.note %} <span class="pub__note">{{ p.note }}</span>{% endif %}</div>
+    {%- if p.paper or p.code %}
+    <div class="pub__links">
+      {%- if p.paper %}<a class="pub__btn" href="{{ p.paper }}"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>{% endif -%}
+      {%- if p.code %}<a class="pub__btn" href="{{ p.code }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{% endif -%}
+    </div>
+    {%- endif %}
+  </div>
+</div>

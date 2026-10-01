@@ -1,0 +1,144 @@
+/* ==========================================================================
+   Site-specific additions (publications list, CV button)
+   Colors match the CV (navy accent #1B3A6E).
+   ========================================================================== */
+
+$cv-accent: #1B3A6E;
+$cv-accent-light: #E8EDF5;
+$cv-muted: #5F6670;
+
+/* Publication entries: badge column on the left, details on the right */
+
+.pub {
+  display: flex;
+  align-items: flex-start;
+  margin: 0 0 1.1em 0;
+  line-height: 1.45;
+}
+
+.pub__badge {
+  flex: 0 0 7.2em;
+  padding-top: 0.15em;
+
+  span {
+    display: inline-block;
+    padding: 0.15em 0.55em;
+    border-radius: 4px;
+    background: $cv-accent;
+    color: #fff;
+    font-size: 0.72em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+}
+
+.pub__body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub__title {
+  font-weight: 600;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: $cv-accent;
+    text-decoration: underline;
+  }
+}
+
+.pub__authors,
+.pub__venue {
+  font-size: 0.9em;
+}
+
+.pub__venue {
+  color: $cv-muted;
+}
+
+.pub__note {
+  display: inline-block;
+  margin-left: 0.3em;
+  padding: 0 0.45em;
+  border-radius: 4px;
+  background: #B3261E;
+  color: #fff;
+  font-size: 0.8em;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.pub__links {
+  margin-top: 0.3em;
+}
+
+.pub__btn {
+  display: inline-block;
+  margin-right: 0.45em;
+  padding: 0.05em 0.6em;
+  border: 1px solid $cv-accent;
+  border-radius: 4px;
+  color: $cv-accent;
+  font-size: 0.75em;
+  text-decoration: none;
+
+  &:hover {
+    background: $cv-accent;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: $cv-accent;
+  }
+
+  &:visited:hover {
+    color: #fff;
+  }
+}
+
+.pub-group {
+  margin-top: 1.6em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid $cv-accent-light;
+  color: $cv-accent;
+}
+
+.pub-footnote {
+  color: $cv-muted;
+  font-size: 0.85em;
+}
+
+/* Stack the badge above the entry on narrow screens */
+@media (max-width: 600px) {
+  .pub {
+    display: block;
+  }
+
+  .pub__badge {
+    margin-bottom: 0.2em;
+  }
+}
+
+/* "Download CV" button on the CV page */
+.cv-download {
+  display: inline-block;
+  margin: 0.4em 0 1.2em 0;
+  padding: 0.45em 1em;
+  border-radius: 4px;
+  background: $cv-accent;
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    background: mix(#000, $cv-accent, 20%);
+    text-decoration: none;
+  }
+}
