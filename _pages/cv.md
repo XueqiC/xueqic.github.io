@@ -15,8 +15,10 @@ Education
 -----
 * Ph.D in Computer Science, Florida State University
   * Aug. 2025 - present
+  * Advisor: Dr. Yushun Dong, Responsible AI (RAI) Lab
 * Ph.D in Computer Science, Vanderbilt University
   * Aug. 2023 - May 2025 (transfer out)
+  * Advisor: Dr. Tyler Derr, Network and Data Science (NDS) Lab
 * M.S. in Systems Engineering, Vanderbilt University
   * Aug. 2021 - May 2023
 

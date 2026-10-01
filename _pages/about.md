@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research focuses on improving the utility, security, and efficiency of **Machine-Learning-as-a-Service (MLaaS)**, with an emphasis on **large language models (LLMs)** and **graph neural networks (GNNs)**. I am also interested in **social network analysis** and **AI for social good**, investigating how AI can help address societally important challenges.
+Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. My research focuses on **agent distillation** and **multimodal large language models (MLLMs)**. I am also interested in **AI for social good** and real-world applications of AI, including **social network analysis** and **civil and infrastructure engineering**.
 
 Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in collaboration!
 
 ## News
 
-- **[09/2026]** 🎉 Our paper [**LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) has been accepted at **NeurIPS'26**!
+- **[09/2026]** 🎉 Our paper [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) has been accepted at **NeurIPS'26**!
 - **[09/2026]** 🎉 Our survey [**Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**](https://dl.acm.org/doi/10.1145/3837074) has been published in **ACM Computing Surveys**!
 - **[06/2026]** 📄 Our preprint [**Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption**](https://arxiv.org/abs/2606.20846) is now available online!
 - **[06/2026]** 📄 Our preprint [**A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data**](https://arxiv.org/abs/2606.15529) is now available online!
 - **[05/2026]** 🎯 Excited to join **Nokia Applied Research** as a research intern working on agent distillation!
 - **[05/2026]** 📄 Our preprint [**ReAD: Reinforcement-Guided Capability Distillation for Large Language Models**](https://arxiv.org/abs/2605.11290) is now available online!
-- **[05/2026]** 📄 Our preprint [**LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) is now available online!
+- **[05/2026]** 📄 Our preprint [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) is now available online!
 - **[05/2026]** 📄 Our preprint [**SOMA: Efficient Multi-turn LLM Serving via Small Language Model**](https://arxiv.org/abs/2605.11317) is now available online!
 - **[04/2026]** 🏅 Received the **Osher Lifelong Learning Institute Scholarship** from Florida State University!
 - **[01/2026]** 🏅 Received the **NSF Travel Award** for WSDM'26, see you in Boise!

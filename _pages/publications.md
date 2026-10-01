@@ -5,20 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find all of my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=MWnSFPMAAAAJ&hl=en)
+You can find all of my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=MWnSFPMAAAAJ&hl=en). <sup>&#42;</sup> denotes equal contribution.
 
 {% include base_path %}
 
 Selected Papers
 ===============
 
-1. <strong>Xueqi Cheng</strong>, Yushun Dong. "LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?" Conference on Neural Information Processing Systems (NeurIPS) [[Paper]](https://arxiv.org/abs/2605.11301)[[Code]](https://github.com/LabRAI/LatentRouter) (2026).
+1. <strong>Xueqi Cheng</strong>, Yushun Dong. "LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?" Conference on Neural Information Processing Systems (NeurIPS) [[Paper]](https://arxiv.org/abs/2605.11301)[[Code]](https://github.com/LabRAI/LatentRouter) (2026).
 
 2. Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, <strong>Xueqi Cheng</strong>, Qingkai Zeng et al. "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey." ACM Computing Surveys (CSUR) [[Paper]](https://dl.acm.org/doi/10.1145/3837074)[[Code]](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) (2026).
 
-3. <strong>Xueqi Cheng</strong>, Qinwen Ge, Hamid Karimi, Yushun Dong, Tyler Derr. "Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption." [[Paper]](https://arxiv.org/abs/2606.20846)[[Code]](https://github.com/XueqiC/Adverse-Social-Interactions) (2026).
+3. <strong>Xueqi Cheng</strong><sup>&#42;</sup>, Qinwen Ge<sup>&#42;</sup>, Hamid Karimi, Yushun Dong, Tyler Derr. "Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption." [[Paper]](https://arxiv.org/abs/2606.20846)[[Code]](https://github.com/XueqiC/Adverse-Social-Interactions) (2026).
 
-4. Runyang Xu, <strong>Xueqi Cheng</strong>, Yushun Dong. "A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data." [[Paper]](https://arxiv.org/abs/2606.15529)[[Code]](https://github.com/LabRAI/WildfireIA) (2026).
+4. Runyang Xu<sup>&#42;</sup>, <strong>Xueqi Cheng</strong><sup>&#42;</sup>, Yushun Dong. "A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data." [[Paper]](https://arxiv.org/abs/2606.15529)[[Code]](https://github.com/LabRAI/WildfireIA) (2026).
 
 5. <strong>Xueqi Cheng</strong>, Xugui Zhou, Tyler Derr, Yushun Dong. "ReAD: Reinforcement-Guided Capability Distillation for Large Language Models." [[Paper]](https://arxiv.org/abs/2605.11290)[[Code]](https://github.com/LabRAI/ReAD) (2026).
 
@@ -28,7 +28,7 @@ Selected Papers
 
 8. <strong>Xueqi Cheng</strong>, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, Tyler Derr. "BTS: A Comprehensive Benchmark for Tie Strength Prediction." In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, Oral) [[Paper]](https://arxiv.org/abs/2410.19214)[[Code]](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction) (2025).
 
-9. <strong>Xueqi Cheng</strong>, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. "Edge Classification on Graphs: New Directions in Topological Imbalance." ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/10.1145/3701551.3703518)[[Code]](https://github.com/XueqiC/TopoEdge) (2025).
+9. <strong>Xueqi Cheng</strong><sup>&#42;</sup>, Yu Wang<sup>&#42;</sup>, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. "Edge Classification on Graphs: New Directions in Topological Imbalance." ACM International Conference on Web Search and Data Mining (WSDM) [[Paper]](https://dl.acm.org/doi/10.1145/3701551.3703518)[[Code]](https://github.com/XueqiC/TopoEdge) (2025).
 
 10. <strong>Xueqi Cheng</strong>. "Edge-Centric Network Analytics." ACM International Conference on Web Search and Data Mining (WSDM) Doctoral Consortium [[Paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3707418) (2025).
 
