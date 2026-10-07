@@ -97,17 +97,21 @@
 
 - id: P08
   type: preprint
-  badge: In Submission
+  badge: arXiv 2026
   title: "Capability Scaling-Down Laws for LLM Compression"
   authors: "<strong>Xueqi Cheng</strong>, Liang Wu, Kelly Wan, Liangjie Hong, Yushun Dong"
-  venue: In submission
+  venue: arXiv preprint arXiv:2610.02462, 2026
+  paper: https://arxiv.org/abs/2610.02462
+  code: https://github.com/LabRAI/scaling_down_law
 
 - id: P07
   type: preprint
-  badge: In Submission
+  badge: arXiv 2026
   title: "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents"
   authors: "Wangshu Zhu<sup>&#42;</sup>, <strong>Xueqi Cheng</strong><sup>&#42;</sup>, Liang Wu, Yushun Dong"
-  venue: In submission
+  venue: arXiv preprint arXiv:2610.03591, 2026
+  paper: https://arxiv.org/abs/2610.03591
+  code: https://github.com/LabRAI/HazardWeaver
 
 - id: P06
   type: preprint

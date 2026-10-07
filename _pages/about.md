@@ -30,20 +30,22 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 
 ## News
 
+- **[10/2026]** 📄 Our preprint [**HazardWeaver: Scientific Route Selection for Hazard Analysis Agents**](https://arxiv.org/abs/2610.03591) is now available online!
+- **[10/2026]** 📄 Our preprint [**Capability Scaling-Down Laws for LLM Compression**](https://arxiv.org/abs/2610.02462) is now available online!
 - **[09/2026]** 🎉 Our paper [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) has been accepted at **NeurIPS'26**!
 - **[09/2026]** 🎉 Our survey [**Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**](https://dl.acm.org/doi/10.1145/3837074) has been published in **ACM Computing Surveys**!
 - **[06/2026]** 📄 Our preprint [**Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption**](https://arxiv.org/abs/2606.20846) is now available online!
 - **[06/2026]** 📄 Our preprint [**A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data**](https://arxiv.org/abs/2606.15529) is now available online!
 - **[05/2026]** 🎯 Excited to join **Nokia Applied Research** as a research intern working on agent distillation!
 - **[05/2026]** 📄 Our preprint [**ReAD: Reinforcement-Guided Capability Distillation for Large Language Models**](https://arxiv.org/abs/2605.11290) is now available online!
-- **[05/2026]** 📄 Our preprint [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) is now available online!
-- **[05/2026]** 📄 Our preprint [**SOMA: Efficient Multi-turn LLM Serving via Small Language Model**](https://arxiv.org/abs/2605.11317) is now available online!
 
 
 <details>
   <summary style="cursor: pointer;"><strong>More News</strong></summary>
   
   <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>[05/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2605.11301"><strong>LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?</strong></a> is now available online!</li>
+    <li><strong>[05/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2605.11317"><strong>SOMA: Efficient Multi-turn LLM Serving via Small Language Model</strong></a> is now available online!</li>
     <li><strong>[04/2026]</strong> 🏅 Received the <strong>Osher Lifelong Learning Institute Scholarship</strong> from Florida State University!</li>
     <li><strong>[01/2026]</strong> 🏅 Received the <strong>NSF Travel Award</strong> for WSDM'26, see you in Boise!</li>
     <li><strong>[01/2026]</strong> 🌋 Our open-source Python library <a href="https://labrai.github.io/PyHazards/"><strong>PyHazards</strong></a> is now online! PyHazards is an AI-based toolkit for natural hazard prediction, and we’d love to collaborate, get feedback, and welcome contributions!</li>
