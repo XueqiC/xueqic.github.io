@@ -41,7 +41,7 @@ Awards
 Services
 -----
 * Publicity Chair: The 5th International Workshop on Machine Learning on Graphs (MLoG) at WSDM'24
-* Conference Reviewer/PC Member: NeurIPS, ICML, KDD, ICWSM, WSDM, AAAI, WWW, SDM, IEEE Big Data, CIKM
+* Conference Reviewer/PC Member: NeurIPS, ICLR, ICML, KDD, ICWSM, WSDM, AAAI, WWW, SDM, IEEE Big Data, CIKM
 * Journal Reviewer: Pattern Recognition, TKDD
 
 <!-- <embed src="https://xueqic.github.io/new_cv.pdf" type="application/pdf" width="100%" /> -->
