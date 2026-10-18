@@ -31,6 +31,9 @@ Experience
 
 Awards
 -----
+* NeurIPS Top Reviewer, 2026
+* NeurIPS Travel Award, 2026
+* Naaman Franklin Faile Jr. Graduate Fellowship @ Florida State University, 2026
 * Osher Lifelong Learning Institute Scholarship @ Florida State University, 2026
 * WSDM NSF Travel Award, 2026
 * CS Student Seminar Best Presentation Runner-Up @ Florida State University, 2025

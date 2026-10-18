@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. I have published first-author papers at top venues including **NeurIPS**, **KDD** (Oral), and **WSDM**, and co-authored papers at **ICLR** and in journals including **ACM Computing Surveys**, **IEEE TKDE**, and **ACM TIST**. I have conducted industrial research as a research intern at **Nokia Applied Research** and **AT&T Labs**. I have received awards including the **Naaman Franklin Faile Jr. Graduate Fellowship**, the **Osher Lifelong Learning Institute Scholarship**, the **IBM PhD Fellowship**, and the **WSDM NSF Travel Award**, and I serve as a reviewer for venues such as NeurIPS, ICLR, ICML, KDD, WWW, etc.
+Hi! I’m Xueqi Cheng, a Ph.D. student in [Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), advised by [Dr. Yushun Dong](https://yushundong.github.io/) in the Responsible AI (RAI) Lab. I have published first-author papers at top venues including **NeurIPS**, **KDD** (Oral), and **WSDM**, and co-authored papers at **ICLR** and in journals including **ACM Computing Surveys**, **IEEE TKDE**, and **ACM TIST**. I have conducted industrial research as a research intern at **Nokia Applied Research** and **AT&T Labs**. I have received awards including the **Naaman Franklin Faile Jr. Graduate Fellowship** (2025, 2026), the **Osher Lifelong Learning Institute Scholarship**, the **IBM PhD Fellowship**, the **NeurIPS Travel Award**, and the **WSDM NSF Travel Award**, and I serve as a reviewer for venues such as NeurIPS, ICLR, ICML, KDD, WWW, etc. I was recognized as a **Top Reviewer** at **NeurIPS 2026**.
 
 Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in collaboration!
 
@@ -30,20 +30,23 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 
 ## News
 
+- **[10/2026]** 🏆 Recognized as a **Top Reviewer** at **NeurIPS'26**!
+- **[10/2026]** 🏅 Received the **Travel Award** for **NeurIPS'26**!
+- **[10/2026]** 🏅 Received the **Naaman Franklin Faile Jr. Graduate Fellowship** from Florida State University for the second time!
 - **[10/2026]** 📄 Our preprint [**HazardWeaver: Scientific Route Selection for Hazard Analysis Agents**](https://arxiv.org/abs/2610.03591) is now available online!
 - **[10/2026]** 📄 Our preprint [**Capability Scaling-Down Laws for LLM Compression**](https://arxiv.org/abs/2610.02462) is now available online!
 - **[09/2026]** 🎉 Our paper [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) has been accepted at **NeurIPS'26**!
 - **[09/2026]** 🎉 Our survey [**Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**](https://dl.acm.org/doi/10.1145/3837074) has been published in **ACM Computing Surveys**!
 - **[06/2026]** 📄 Our preprint [**Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption**](https://arxiv.org/abs/2606.20846) is now available online!
-- **[06/2026]** 📄 Our preprint [**A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data**](https://arxiv.org/abs/2606.15529) is now available online!
-- **[05/2026]** 🎯 Excited to join **Nokia Applied Research** as a research intern working on agent distillation!
-- **[05/2026]** 📄 Our preprint [**ReAD: Reinforcement-Guided Capability Distillation for Large Language Models**](https://arxiv.org/abs/2605.11290) is now available online!
 
 
 <details>
   <summary style="cursor: pointer;"><strong>More News</strong></summary>
   
   <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>[06/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2606.15529"><strong>A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data</strong></a> is now available online!</li>
+    <li><strong>[05/2026]</strong> 🎯 Excited to join <strong>Nokia Applied Research</strong> as a research intern working on agent distillation!</li>
+    <li><strong>[05/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2605.11290"><strong>ReAD: Reinforcement-Guided Capability Distillation for Large Language Models</strong></a> is now available online!</li>
     <li><strong>[05/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2605.11301"><strong>LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?</strong></a> is now available online!</li>
     <li><strong>[05/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2605.11317"><strong>SOMA: Efficient Multi-turn LLM Serving via Small Language Model</strong></a> is now available online!</li>
     <li><strong>[04/2026]</strong> 🏅 Received the <strong>Osher Lifelong Learning Institute Scholarship</strong> from Florida State University!</li>
