@@ -9,6 +9,7 @@
 
 - id: C05
   type: conference
+  selected: true
   badge: WSDM 2027
   title: "Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption"
   authors: "<strong>Xueqi Cheng</strong><sup>&#42;</sup>, Qinwen Ge<sup>&#42;</sup>, Hamid Karimi, Yushun Dong, Tyler Derr"
