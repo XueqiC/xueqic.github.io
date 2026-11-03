@@ -30,6 +30,7 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 
 ## News
 
+- **[11/2026]** 🎉 Our paper [**Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption**](https://arxiv.org/abs/2606.20846) has been accepted at the **WSDM'27** main conference!
 - **[10/2026]** 🏆 Recognized as a **Top Reviewer** at **NeurIPS'26**!
 - **[10/2026]** 🏅 Received the **Travel Award** for **NeurIPS'26**!
 - **[10/2026]** 🏅 Received the **Naaman Franklin Faile Jr. Graduate Fellowship** from Florida State University for the second time!
@@ -37,13 +38,13 @@ Feel free to drop me an [Email](mailto:xc25@fsu.edu) if you are interested in co
 - **[10/2026]** 📄 Our preprint [**Capability Scaling-Down Laws for LLM Compression**](https://arxiv.org/abs/2610.02462) is now available online!
 - **[09/2026]** 🎉 Our paper [**LatentRouter: Can We Choose the Right Multimodal Large Language Model Before Seeing Its Answer?**](https://arxiv.org/abs/2605.11301) has been accepted at **NeurIPS'26**!
 - **[09/2026]** 🎉 Our survey [**Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**](https://dl.acm.org/doi/10.1145/3837074) has been published in **ACM Computing Surveys**!
-- **[06/2026]** 📄 Our preprint [**Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption**](https://arxiv.org/abs/2606.20846) is now available online!
 
 
 <details>
   <summary style="cursor: pointer;"><strong>More News</strong></summary>
   
   <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>[06/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2606.20846"><strong>Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption</strong></a> is now available online!</li>
     <li><strong>[06/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2606.15529"><strong>A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data</strong></a> is now available online!</li>
     <li><strong>[05/2026]</strong> 🎯 Excited to join <strong>Nokia Applied Research</strong> as a research intern working on agent distillation!</li>
     <li><strong>[05/2026]</strong> 📄 Our preprint <a href="https://arxiv.org/abs/2605.11290"><strong>ReAD: Reinforcement-Guided Capability Distillation for Large Language Models</strong></a> is now available online!</li>
